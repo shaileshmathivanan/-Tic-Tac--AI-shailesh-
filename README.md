@@ -25,4 +25,21 @@ Minimax is a decision-making algorithm used in two-player games. It explores all
 Alpha-Beta Pruning is an optimization of the Minimax algorithm. It reduces the number of nodes evaluated by eliminating branches that do not affect the final decision, making the algorithm faster and more efficient.
 
 ---
+🧠 Technologies Used
+
+* Python – Core programming language used to implement game logic and AI algorithms
+* Flask – Lightweight web framework used to build the backend and handle requests
+* HTML – Structure of the web interface
+* CSS – Styling the game layout and UI
+* JavaScript – Handles user interaction and communicates with the backend
+* Minimax Algorithm – AI decision-making algorithm for optimal moves
+* Alpha-Beta Pruning – Optimization technique to improve Minimax efficiency
+
+⸻
+
+⚙️ Tools & Platform
+
+* Replit – Used for development and deployment
+* GitHub – Used for version control and project submission
+----
 Live demo https://tic-tac-ai--sujitheswar31.replit.app/
